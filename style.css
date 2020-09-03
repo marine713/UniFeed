@@ -1,0 +1,29 @@
+html{
+	font-size:100%;
+	box-sizing: border-box;
+}
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: inherit;
+}
+body{
+	font-family: sans-serif;
+	background: url('img/bg-1.jpg');
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.navbar{
+	background: transparent;
+	color: #fff;
+}
+.container{
+	margin-top: 100px;
+	padding: 100px 0px 200px 0px;
+}
+.btn{
+	font-size: 1.9em;
+}
+.btn:hover{
+	color: #fff; 
+}

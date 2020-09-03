@@ -1,0 +1,27 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+body{
+	color: #fff;
+	background: url('img/img-1.png');
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.navbar{
+	background: transparent;
+	color: #fff;
+}
+.form-section{
+	background: #fff;
+	color: green;
+}
+.form-section input{
+	background: transparent;
+	border: none;
+	border-bottom: 2px solid purple;
+}
+.container .form-section{
+    float: none;
+    margin: 0 auto;
+}
